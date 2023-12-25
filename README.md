@@ -1,5 +1,5 @@
 # Resume-Classifier
-Utilizes ResNet-34 for document classification 
+Utilizes ResNet-34 for document classification without OCR/NLP
 
 Dataset
 Reference: A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval," in ICDAR, 2015
